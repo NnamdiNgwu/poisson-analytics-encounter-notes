@@ -1,0 +1,15 @@
+ls
+cd
+mkdir
+touch
+open
+nano or open works the same with also Vim
+ls -al
+cd ..
+mv to move a directory and it is also use to delete a diretory or file ior change a file name
+rm to remove file but when using this command, rm -r delete directory
+cp copy file. cp -r copy directory
+grep food 'filename' will search filename for the word food
+control o to save in nano
+control x to exit
+
